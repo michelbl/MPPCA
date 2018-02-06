@@ -21,3 +21,7 @@ In high dimensions, a logarithmic representation of numbers was required to avoi
 
 "Mixtures of Probabilistic Principal Component Analysers", Michael E. Tipping and Christopher M. Bishop, Neural Computation 11(2), pp 443–482, MIT Press, 1999
 
+
+## License
+
+WTFPL
